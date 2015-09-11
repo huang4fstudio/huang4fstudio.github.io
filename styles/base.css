@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Aller";
-  src: url("assets/Aller/Aller.eot");
-  src: url("assets/Aller/Aller.eot?#iefix") format("embedded-opentype"), url("assets/Aller/Aller.woff") format("woff"), url("assets/Aller/Aller.ttf") format("truetype"), url("assets/Aller/Aller.svg#Aller") format("svg"); }
+  src: url("/assets/Aller/Aller_Rg.eot");
+  src: url("/assets/Aller/Aller_Rg.eot?#iefix") format("embedded-opentype"), url("/assets/Aller/Aller_Rg.woff") format("woff"), url("/assets/Aller/Aller_Rg.ttf") format("truetype"), url("/assets/Aller/Aller_Rg.svg#Aller") format("svg"); }
 @font-face {
   font-family: "Aller Light";
-  src: url("assets/Aller_Light/Aller_Lt.eot");
-  src: url("assets/Aller_Light/Aller_Lt.eot?#iefix") format("embedded-opentype"), url("assets/Aller_Light/Aller_Lt.woff") format("woff"), url("assets/Aller_Light/Aller_Lt.ttf") format("truetype"), url("assets/Aller_Light/Aller_Lt.svg#Aller Light") format("svg"); }
+  src: url("/assets/Aller_Light/Aller_Lt.eot");
+  src: url("/assets/Aller_Light/Aller_Lt.eot?#iefix") format("embedded-opentype"), url("/assets/Aller_Light/Aller_Lt.woff") format("woff"), url("/assets/Aller_Light/Aller_Lt.ttf") format("truetype"), url("/assets/Aller_Light/Aller_Lt.svg#Aller Light") format("svg"); }
 .icon-block {
   padding: 0 15px; }
   .icon-block .material-icons {
