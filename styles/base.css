@@ -1,7 +1,11 @@
 @font-face {
   font-family: "Aller";
-  src: url("assets/Aller/Aller_Lt.eot");
-  src: url("assets/Aller/Aller_Lt.eot?#iefix") format("embedded-opentype"), url("assets/Aller/Aller_Lt.woff") format("woff"), url("assets/Aller/Aller_Lt.ttf") format("truetype"), url("assets/Aller/Aller_Lt.svg#Aller") format("svg"); }
+  src: url("assets/Aller/Aller.eot");
+  src: url("assets/Aller/Aller.eot?#iefix") format("embedded-opentype"), url("assets/Aller/Aller.woff") format("woff"), url("assets/Aller/Aller.ttf") format("truetype"), url("assets/Aller/Aller.svg#Aller") format("svg"); }
+@font-face {
+  font-family: "Aller Light";
+  src: url("assets/Aller Light/Aller_Lt.eot");
+  src: url("assets/Aller Light/Aller_Lt.eot?#iefix") format("embedded-opentype"), url("assets/Aller Light/Aller_Lt.woff") format("woff"), url("assets/Aller Light/Aller_Lt.ttf") format("truetype"), url("assets/Aller Light/Aller_Lt.svg#Aller Light") format("svg"); }
 .icon-block {
   padding: 0 15px; }
   .icon-block .material-icons {
@@ -16,13 +20,13 @@ body {
   font-family: Aller;
   font-weight: 300;
   font-size: 24px; }
-  @media screen and (min-width: 601px) {
+  @media screen and (min-width: 641px) {
     .page-title {
       font-size: 108px; } }
 
 #site-logo {
   padding-top: 30px; }
-  @media screen and (min-width: 601px) {
+  @media screen and (min-width: 641px) {
     #site-logo {
       padding-top: 260px; } }
 
@@ -35,11 +39,11 @@ body {
   padding-top: 15px;
   line-height: 20px;
   font-size: 1.2em; }
-  @media screen and (min-width: 601px) {
+  @media screen and (min-width: 641px) {
     #email {
       padding-top: 250px; } }
 
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 641px) {
   #potrait-container {
     margin-top: -80px; } }
 

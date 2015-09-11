@@ -2161,7 +2161,7 @@ ul.staggered-list li {
 /*********************
   Media Query Classes
 **********************/
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 640px) {
   .hide-on-small-only, .hide-on-small-and-down {
     display: none !important; } }
 
@@ -2169,11 +2169,11 @@ ul.staggered-list li {
   .hide-on-med-and-down {
     display: none !important; } }
 
-@media only screen and (min-width: 601px) {
+@media only screen and (min-width: 641px) {
   .hide-on-med-and-up {
     display: none !important; } }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 640px) and (max-width: 992px) {
   .hide-on-med-only {
     display: none !important; } }
 
@@ -2185,15 +2185,15 @@ ul.staggered-list li {
   .show-on-large {
     display: initial !important; } }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 640px) and (max-width: 992px) {
   .show-on-medium {
     display: initial !important; } }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 640px) {
   .show-on-small {
     display: initial !important; } }
 
-@media only screen and (min-width: 601px) {
+@media only screen and (min-width: 641px) {
   .show-on-medium-and-up {
     display: initial !important; } }
 
@@ -2201,7 +2201,7 @@ ul.staggered-list li {
   .show-on-medium-and-down {
     display: initial !important; } }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 640px) {
   .center-on-small-only {
     text-align: center; } }
 
@@ -5047,7 +5047,7 @@ span.badge {
   max-width: 1280px;
   width: 90%; }
 
-@media only screen and (min-width: 601px) {
+@media only screen and (min-width: 641px) {
   .container {
     width: 85%; } }
 @media only screen and (min-width: 993px) {
@@ -5141,7 +5141,7 @@ span.badge {
       margin-left: 91.66667%; }
     .row .col.offset-s12 {
       margin-left: 100%; }
-    @media only screen and (min-width: 601px) {
+    @media only screen and (min-width: 641px) {
       .row .col.m1 {
         width: 8.33333%;
         margin-left: 0; }
@@ -5382,7 +5382,7 @@ nav {
   .navbar-fixed nav {
     position: fixed; }
 
-@media only screen and (min-width: 601px) {
+@media only screen and (min-width: 641px) {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
     height: 400px;
     line-height: 400px; }
@@ -5484,64 +5484,64 @@ small {
   @media only screen and (min-width: 360px) {
     .flow-text {
       font-size: 1.2rem; } }
-  @media only screen and (min-width: 390px) {
+  @media only screen and (min-width: 388px) {
     .flow-text {
       font-size: 1.224rem; } }
-  @media only screen and (min-width: 420px) {
+  @media only screen and (min-width: 416px) {
     .flow-text {
       font-size: 1.248rem; } }
-  @media only screen and (min-width: 450px) {
+  @media only screen and (min-width: 444px) {
     .flow-text {
       font-size: 1.272rem; } }
-  @media only screen and (min-width: 480px) {
+  @media only screen and (min-width: 472px) {
     .flow-text {
       font-size: 1.296rem; } }
-  @media only screen and (min-width: 510px) {
+  @media only screen and (min-width: 500px) {
     .flow-text {
       font-size: 1.32rem; } }
-  @media only screen and (min-width: 540px) {
+  @media only screen and (min-width: 528px) {
     .flow-text {
       font-size: 1.344rem; } }
-  @media only screen and (min-width: 570px) {
+  @media only screen and (min-width: 556px) {
     .flow-text {
       font-size: 1.368rem; } }
-  @media only screen and (min-width: 600px) {
+  @media only screen and (min-width: 584px) {
     .flow-text {
       font-size: 1.392rem; } }
-  @media only screen and (min-width: 630px) {
+  @media only screen and (min-width: 612px) {
     .flow-text {
       font-size: 1.416rem; } }
-  @media only screen and (min-width: 660px) {
+  @media only screen and (min-width: 640px) {
     .flow-text {
       font-size: 1.44rem; } }
-  @media only screen and (min-width: 690px) {
+  @media only screen and (min-width: 668px) {
     .flow-text {
       font-size: 1.464rem; } }
-  @media only screen and (min-width: 720px) {
+  @media only screen and (min-width: 696px) {
     .flow-text {
       font-size: 1.488rem; } }
-  @media only screen and (min-width: 750px) {
+  @media only screen and (min-width: 724px) {
     .flow-text {
       font-size: 1.512rem; } }
-  @media only screen and (min-width: 780px) {
+  @media only screen and (min-width: 752px) {
     .flow-text {
       font-size: 1.536rem; } }
-  @media only screen and (min-width: 810px) {
+  @media only screen and (min-width: 780px) {
     .flow-text {
       font-size: 1.56rem; } }
-  @media only screen and (min-width: 840px) {
+  @media only screen and (min-width: 808px) {
     .flow-text {
       font-size: 1.584rem; } }
-  @media only screen and (min-width: 870px) {
+  @media only screen and (min-width: 836px) {
     .flow-text {
       font-size: 1.608rem; } }
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: 864px) {
     .flow-text {
       font-size: 1.632rem; } }
-  @media only screen and (min-width: 930px) {
+  @media only screen and (min-width: 892px) {
     .flow-text {
       font-size: 1.656rem; } }
-  @media only screen and (min-width: 960px) {
+  @media only screen and (min-width: 920px) {
     .flow-text {
       font-size: 1.68rem; } }
   @media only screen and (max-width: 360px) {
@@ -5652,11 +5652,11 @@ small {
   display: block;
   position: fixed;
   z-index: 1001; }
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 640px) {
     #toast-container {
       min-width: 100%;
       bottom: 0%; } }
-  @media only screen and (min-width: 601px) and (max-width: 992px) {
+  @media only screen and (min-width: 641px) and (max-width: 992px) {
     #toast-container {
       min-width: 30%;
       left: 5%;
@@ -5698,11 +5698,11 @@ small {
     margin-left: 3rem; }
   .toast.rounded {
     border-radius: 24px; }
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 640px) {
     .toast {
       width: 100%;
       border-radius: 0; } }
-  @media only screen and (min-width: 601px) and (max-width: 992px) {
+  @media only screen and (min-width: 641px) and (max-width: 992px) {
     .toast {
       float: left; } }
   @media only screen and (min-width: 993px) {
@@ -6517,7 +6517,7 @@ textarea.materialize-textarea {
     .input-field .prefix ~ input {
       width: 86%;
       width: calc(100% - 3rem); } }
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 640px) {
     .input-field .prefix ~ input {
       width: 80%;
       width: calc(100% - 3rem); } }
