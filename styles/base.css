@@ -1,0 +1,51 @@
+.icon-block {
+  padding: 0 15px; }
+  .icon-block .material-icons {
+    font-size: inherit; }
+
+body {
+  font-family: Open Sans;
+  font-weight: 300;
+  color: #757575; }
+
+.page-title {
+  font-family: Aller;
+  font-weight: 300;
+  font-size: 24px; }
+  @media screen and (min-width: 601px) {
+    .page-title {
+      font-size: 108px; } }
+
+#site-logo {
+  padding-top: 30px; }
+  @media screen and (min-width: 601px) {
+    #site-logo {
+      padding-top: 260px; } }
+
+#email {
+  bottom: 0px;
+  position: relative;
+  text-align: right;
+  font-family: Open Sans;
+  font-weight: 300;
+  padding-top: 15px;
+  line-height: 20px;
+  font-size: 1.2em; }
+  @media screen and (min-width: 601px) {
+    #email {
+      padding-top: 250px; } }
+
+@media screen and (min-width: 601px) {
+  #potrait-container {
+    margin-top: -80px; } }
+
+.section-title, .table-of-contents {
+  font-family: Aller;
+  font-weight: 100;
+  margin-bottom: 30px; }
+
+#project-list li {
+  margin-bottom: 30px;
+  opacity: 0; }
+
+/*# sourceMappingURL=base.css.map */
