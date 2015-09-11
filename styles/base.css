@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "Aller";
+  src: url("assets/Aller/Aller_Lt.eot");
+  src: url("assets/Aller/Aller_Lt.eot?#iefix") format("embedded-opentype"), url("assets/Aller/Aller_Lt.woff") format("woff"), url("assets/Aller/Aller_Lt.ttf") format("truetype"), url("assets/Aller/Aller_Lt.svg#Aller") format("svg"); }
 .icon-block {
   padding: 0 15px; }
   .icon-block .material-icons {
