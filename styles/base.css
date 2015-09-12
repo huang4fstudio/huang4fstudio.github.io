@@ -50,9 +50,11 @@ body {
     #email {
       padding-top: 300px; } }
 
-@media screen and (min-width: 641px) {
-  #potrait-container {
-    margin-top: -80px; } }
+#potrait-container {
+  margin-top: -60px; }
+  @media screen and (min-width: 641px) {
+    #potrait-container {
+      margin-top: -80px; } }
 
 .section-title, .table-of-contents {
   font-family: Aller Light;
