@@ -19,16 +19,23 @@ body {
 .page-title {
   font-family: Aller;
   font-weight: 300;
-  font-size: 24px; }
+  font-size: 65px; }
   @media screen and (min-width: 641px) {
     .page-title {
       font-size: 108px; } }
 
 #site-logo {
-  padding-top: 30px; }
+  padding-top: 60px;
+  line-height: 50px; }
   @media screen and (min-width: 641px) {
     #site-logo {
       padding-top: 260px; } }
+
+#surname {
+  display: block; }
+  @media screen and (min-width: 641px) {
+    #surname {
+      display: inline; } }
 
 #email {
   bottom: 0px;
@@ -38,10 +45,10 @@ body {
   font-weight: 300;
   padding-top: 15px;
   line-height: 20px;
-  font-size: 1.2em; }
+  font-size: 1.1em; }
   @media screen and (min-width: 641px) {
     #email {
-      padding-top: 250px; } }
+      padding-top: 300px; } }
 
 @media screen and (min-width: 641px) {
   #potrait-container {
