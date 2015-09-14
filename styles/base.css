@@ -45,10 +45,14 @@ body {
   font-weight: 300;
   padding-top: 15px;
   line-height: 20px;
-  font-size: 1.1em; }
+  font-size: 1.1em;
+  opacity: 0; }
   @media screen and (min-width: 641px) {
     #email {
       padding-top: 300px; } }
+  @media screen and (min-width: 1300px) {
+    #email {
+      opacity: 1; } }
 
 #potrait-container {
   margin-top: -60px; }
@@ -60,6 +64,14 @@ body {
   font-family: Aller Light;
   font-weight: 100;
   margin-bottom: 30px; }
+
+.contact-icon {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+  @media screen and (min-width: 641px) {
+    .contact-icon {
+      margin-top: 60px;
+      margin-bottom: 60px; } }
 
 #project-list li {
   margin-bottom: 30px;
