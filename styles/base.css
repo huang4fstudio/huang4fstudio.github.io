@@ -37,6 +37,14 @@ body {
     #surname {
       display: inline; } }
 
+p {
+    font-size: 1.1em;
+}
+
+.table_of_contents {
+    font-size: 1.1em;
+}
+
 #email {
   bottom: 0px;
   position: relative;
@@ -45,7 +53,7 @@ body {
   font-weight: 300;
   padding-top: 15px;
   line-height: 20px;
-  font-size: 1.1em;
+  font-size: 1.5em;
   opacity: 0; }
   @media screen and (min-width: 641px) {
     #email {
