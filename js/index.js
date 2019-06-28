@@ -1,7 +1,7 @@
 $(document).ready(function(){
     Materialize.showStaggeredList('#potrait-list');
     var options = [
-      {selector: '#project-list', offset: 50, callback: 'Materialize.showStaggeredList("#project-list")' },
+      {selector: '#course-list', offset: 50, callback: 'Materialize.showStaggeredList("#course-list")' },
     ];
     Materialize.scrollFire(options);
     $('.scrollspy').scrollSpy();

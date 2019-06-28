@@ -5613,7 +5613,7 @@ small {
       left: 0;
       padding: 20px; }
   .card .card-content {
-    padding: 20px;
+    padding:20px;
     border-radius: 0 0 2px 2px; }
     .card .card-content p {
       margin: 0;
@@ -5622,7 +5622,9 @@ small {
       line-height: 48px; }
   .card .card-action {
     border-top: 1px solid rgba(160, 160, 160, 0.2);
-    padding: 20px; }
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px; }
     .card .card-action a {
       color: #b3e5fc;
       margin-right: 20px;
