@@ -24,6 +24,11 @@ body {
     .page-title {
       font-size: 108px; } }
 
+.paper-title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
 #site-logo {
   padding-top: 60px;
   line-height: 50px; }
@@ -85,4 +90,8 @@ p {
   margin-bottom: 30px;
   opacity: 0; }
 
+#publication-list li {
+  padding-left: 16px;
+  margin-top: 16px;
+}
 /*# sourceMappingURL=base.css.map */
